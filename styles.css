@@ -54,7 +54,7 @@ justify-content: space-around;
 
 .book-container{
 box-sizing: border-box;
-width: 250px;
+width: 300px;
 height: 800px;
 }
 
@@ -138,8 +138,8 @@ h2{
   border: 10px solid #ffffff;
   z-index: 9;
   width:600px;
-  height:150px
-  background-color: rgb(130, 226, 155);
+  height:150px;
+  background-color: rgb(255, 188, 221);
   text-align:center;
   padding: 20px
 }
@@ -155,13 +155,13 @@ h2{
 }
 
 #buttons{
-  padding: 20px
+  padding: 30px
 }
 
 button {
   border: none;
   color: white;
-  padding: 5px 12px;
+  padding: 5px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
