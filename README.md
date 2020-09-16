@@ -1,6 +1,7 @@
 # bookclub-js-frontend
 
-Garden of Books is a Javascript front-end and Rails back-end application. Users can add books and view reviews in this SPA book collection keeper. 
+Garden of Books a bookclub that was created with a Javascript front-end and Rails back-end application. Users can add books and view reviews in this SPA book collection keeper. 
+Link to backend [https://github.com/codeweb123/bookclub-rails-api]
 
 
 ## Installing <bookclub>
